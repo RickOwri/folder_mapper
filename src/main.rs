@@ -1,8 +1,5 @@
 use rusqlite::Connection;
-// use rusqlite::{Connection, NO_PARAMS};
 use std::env;
-// use std::fs::File;
-// use std::io::Write;
 use walkdir::WalkDir;
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
