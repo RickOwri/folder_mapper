@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your Rust project that uses Parquet files for efficient data storage and retrieval:
-
----
-
 # Rust Parquet Data Processing
 
 ## Overview
