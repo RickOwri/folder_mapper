@@ -75,11 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or a pull request.
-
-## Contact
-
-If you have any questions or need assistance, feel free to contact [Your Name](mailto:your.email@example.com).
-
----
-
-Feel free to customize this README to suit your specific project requirements. Add more sections as needed, such as examples, benchmarks, or usage instructions for specific libraries or tools you're using for Parquet data processing.
